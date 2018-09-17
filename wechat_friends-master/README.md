@@ -3,7 +3,7 @@
 
 ## 功能说明：用作者的微信号进行示范
 #### 1：统计好友的性别
-![python](https://github.com/yangxuanxc/wechat_friends/blob/master/source/1.jpeg)
+![python](https://github.com/wanglirui/Wechat/blob/master/wechat_friends-master/source/%E4%B8%8B%E8%BD%BD%20(4).png)
 #### 2：统计好友的地域分布，并且可视化在地图上展示
 ![python](https://github.com/yangxuanxc/wechat_friends/blob/master/source/2.jpeg)
 

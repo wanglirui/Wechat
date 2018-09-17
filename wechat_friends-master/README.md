@@ -1,7 +1,7 @@
 
-# 微信好友分析
+# 微信机器人自动回复
 
-## 功能说明：用作者的微信号进行示范
+## 功能说明：自动回复好友并统计好友信息
 #### 1：统计好友的性别
 ![python](https://github.com/wanglirui/Wechat/blob/master/wechat_friends-master/source/%E4%B8%8B%E8%BD%BD%20(4).png)
 #### 2：统计好友的地域分布，并且可视化在地图上展示

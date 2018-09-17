@@ -3,7 +3,7 @@ import itchat
 import json
 import requests
 import codecs
-KEY = '4a58e38734ce40b79277523a8b7181c4'
+KEY = ' 你申请的key'
 sex_dict = {}
 sex_dict['0'] = "其他"
 sex_dict['1'] = "男"
@@ -72,8 +72,8 @@ if __name__ == '__main__':
         friends_list.append(item)
         print(item)
     #
-    # save_data(friends_list)
-    # download_images(friends_list)
+    save_data(friends_list)
+    download_images(friends_list)
 
     
     user = itchat.search_friends(name=u'还没想好')[0]

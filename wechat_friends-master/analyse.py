@@ -1,6 +1,3 @@
-#coding=utf-8
-#author:微信公众号：大数据前沿
-#查看代码讲解，视频教程，请微信添加好友搜索公众号[大数据前沿]查看历史消息获取。
 import json
 import re
 from pyecharts import Bar
